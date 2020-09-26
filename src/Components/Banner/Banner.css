@@ -13,6 +13,7 @@
     width: 270px;
     margin: 15px;
     position: relative;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .banner_wrapper{
     margin-top: 100px;

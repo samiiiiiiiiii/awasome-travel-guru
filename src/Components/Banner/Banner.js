@@ -18,7 +18,7 @@ const Banner = () => {
                             <div className="col-md-4">
                                 <div className='banner_info'>
                                     <h1>Cox's bazar</h1>
-                                    <p>Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ...</p>
+                                    <p>But, over the years Cox's Bazar has been transformed into a busy tourist city. It has more international visitors now than ever. The availability of more recreational facilities is attracting more tourists every year</p>
                                     <button className='btn menu_btn'>Booking <FontAwesomeIcon icon={faArrowRight} /></button>
                                 </div>
                             </div>
